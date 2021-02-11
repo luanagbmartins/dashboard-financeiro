@@ -4,7 +4,7 @@ Dashboard developed in **ReactJs** with **TypeScript**.
   <img src="./public/assests/minhacarteirapreview.gif">
 </div>
 
-##### Layout & Componentes Responsivos
+#### Responsive Layout & Components
 
 <div align="center" >
   <img src="./public/assests/resposiveview.png">
