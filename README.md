@@ -1,13 +1,13 @@
 Dashboard developed in **ReactJs** with **TypeScript**.
 
 <div align="center" >
-  <img src="./public/assets/minhacarteirapreview.gif">
+  <img src="./public/assests/minhacarteirapreview.gif">
 </div>
 
 ##### Layout & Componentes Responsivos
 
 <div align="center" >
-  <img src="./public/assets/resposiveview.png">
+  <img src="./public/assests/resposiveview.png">
 </div>
 
 # Getting Started with Create React App
