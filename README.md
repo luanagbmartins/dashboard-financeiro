@@ -1,3 +1,15 @@
+Dashboard developed in **ReactJs** with **TypeScript**.
+
+<div align="center" >
+  <img src="./docs/assets/minhacarteirapreview.gif">
+</div>
+
+##### Layout & Componentes Responsivos
+
+<div align="center" >
+  <img src="./docs/assets/resposiveview.png">
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
